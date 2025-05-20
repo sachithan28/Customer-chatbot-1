@@ -122,9 +122,9 @@ This project is for educational purposes and is not licensed for commercial use.
 ---
 
 ## 👤 Author
-**Dinesh P**
+**Sachithan D**
 
-- 📧 Email: [dinesh11rc@gmail.com](mailto:dinesh11rc@gmail.com)
+- 📧 Email: [dssachithan6@gmail.com](mailto:dssachithan6@gmail.com) 
 - 📍 Location: Coimbatore, Tamil Nadu
 
 ---
